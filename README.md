@@ -3,17 +3,18 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=40&pause=1000&color=5D3B92B6&center=true&vCenter=true&multiline=true&random=false&width=700&height=200&lines=Systems+engineer+in+training!;Information+systems+technologist!" alt="Typing SVG"  /></a>
 </p>
+<h1>
+   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+</h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd2YzIwOTlxOXZua212ODIwcGJ1a3U1cWYxZzBvaGRuZzRsa2k1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YW1g39jepet2t5bcSh/giphy.gif" width="480" height="270">
-</picture>
+<picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/LebronJ.gif"  align="right"></img></picture>
 <br>
 - :school: I am a `Junior` programmer.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I love creating modules that can  help the community.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
+- 🧑‍💼 I am currently available for any job offer. [RESUME](https://github.com/ProgramadorFitness/ProgramadorFitness/tree/main/resume)
 <br>
 
 <h1> 🛠️ Skills</h1>
