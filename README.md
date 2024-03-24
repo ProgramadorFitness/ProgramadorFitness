@@ -32,7 +32,7 @@
    <a href="https://github.com/ProgramadorFitness/ProgramadorFitness">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=ProgramadorFitness&theme=tokyonight" alt="GitHub Stats" />  
    </a>
-    <a href="https://github.com/ProgramadorFitness/proyect_2024.git">
+    <a href="https://github.com/ProgramadorFitness/proyect_2024">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=proyect_2024&theme=tokyonight" alt="GitHub Stats" />  
    </a>
    </p>
