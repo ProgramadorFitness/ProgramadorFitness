@@ -14,7 +14,7 @@
 - :computer: I love creating modules that can  help the community.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- 🧑‍💼 I am currently available for any job offer. [RESUME](https://github.com/ProgramadorFitness/ProgramadorFitness/tree/main/resume)
+- 🧑‍💼 I am currently available for any job offer. [RESUME](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/resume/(English).pdf)
 <br>
 
 <h1> 🛠️ Skills</h1>
