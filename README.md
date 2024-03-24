@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #FFFF00">Hi, brothers my name is Daniel Torres</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=40&pause=1000&color=5D3B92B6&center=true&vCenter=true&multiline=true&random=false&width=700&height=200&lines=Systems+engineer+in+training!;Information+systems+technologist!" alt="Typing SVG"  /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=40&pause=1000&color=1D86A4&center=true&vCenter=true&multiline=true&random=false&width=700&height=200&lines=Systems+engineer+in+training!;Information+systems+technologist!" alt="Typing SVG"  /></a>
 </p>
 <h1>
    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -26,6 +26,9 @@
 </p>
 
 <h1>Git status</h1>
-<p align="left" position="flex">
-<a target="blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ProgramadorFitness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" height="230px"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness"height="230px" width="320px" ></a>
+<p align="center" >
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ProgramadorFitness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" width="60%" ">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" width="35%" >
 </p>
+
+
