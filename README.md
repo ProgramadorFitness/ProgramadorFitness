@@ -22,11 +22,10 @@
 `TypeScript` `java` `PHP` `HTML` `CSS` `JavaScript` `Node.js` `Tailwind`
 
 <h1>Connect with me</h1>
+<p><a href="https://www.linkedin.com/in/danieltorres98/" target="blank"><img align="center" src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Linkedin.gif"  height="80" width="70" /></a>
+</p>
 
 <h1>Git status</h1>
-<p align="center">
-   <a href="https://github.com/ProgramadorFitness/">
-     <a href="https://github.com/ProgramadorFitness">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ProgramadorFitness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" height="230px"></a>
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" height="230px"> 
+<p align="left" position="flex">
+<a target="blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ProgramadorFitness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" height="230px"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness"height="230px" width="320px" ></a>
 </p>
