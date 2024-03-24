@@ -19,7 +19,7 @@
 
 <h1> 🛠️ Skills</h1>
 
-`TypeScript`
+`TypeScript` `java` `PHP` `HTML` `CSS` `JavaScript` `Node.js` `Tailwind`
 
 <h1>Connect with me</h1>
 
