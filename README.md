@@ -35,6 +35,9 @@
     <a href="https://github.com/ProgramadorFitness/proyect_2024">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=proyect_2024&theme=tokyonight" alt="GitHub Stats" />  
    </a>
+      <a href="https://github.com/ProgramadorFitness/calculator2">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=calculator2&theme=tokyonight" alt="GitHub Stats" />  
+   </a>
    </p>
 </div>
 
