@@ -38,6 +38,9 @@
       <a href="https://programadorfitness.github.io/calculator2/">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=calculator2&theme=tokyonight" alt="GitHub Stats" />  
    </a>
+      <a href="https://programadorfitness.github.io/table-ts/">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=table-ts&theme=tokyonight" alt="GitHub Stats" />  
+   </a>
    </p>
 </div>
 
