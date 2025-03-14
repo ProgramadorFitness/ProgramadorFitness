@@ -9,17 +9,16 @@
 
 <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/LebronJ.gif"  align="right"></img></picture>
 <br>
-- :school: I am a `Junior` programmer.
+- :school: I am a developer with over 3 years of experience.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I love creating modules that can  help the community.
-- :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- 🧑‍💼 I am currently available for any job offer. [RESUME](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/resume/HDV-2024-CQ.pdf)
+- 🧑‍💼 I am currently available for any job offer. [RESUME](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/resume/HDV-2024-CD-ENGLISH.pdf)
 <br>
 
 <h1> 🛠️ Skills</h1>
 
-`TypeScript` `java` `PHP` `HTML` `CSS` `JavaScript` `Node.js` `Tailwind`
+`TypeScript` `java` `PHP` `HTML` `CSS` `JavaScript` `Node.js` `Tailwind` `Vue` `Nuxt3` `Azure` 
 
 <h1>Connect with me</h1>
 <p><a href="https://www.linkedin.com/in/danieltorres98/" target="blank"><img align="center" src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Linkedin.gif"  height="80" width="70" /></a>
