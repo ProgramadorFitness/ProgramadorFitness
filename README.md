@@ -9,12 +9,16 @@
 
 <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/LebronJ.gif"  align="right"></img></picture>
 <br>
-- :school: I am a developer with over 3 years of experience.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I love creating modules that can  help the community.
-- :nerd_face: Always `learning new things`.
-- 🧑‍💼 I am currently available for any job offer. [RESUME](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/resume/HDV-2024-CD-ENGLISH.pdf)
+
+- 🎓 I am a **Software Developer** with over **3+ years of experience**.
+- 🧑‍💻 I love using **Software as a solution** for every `problem`.
+- 💻 I enjoy creating **scalable modules and reusable components** that help the **developer community**.
+- 🤓 Always `learning new things`, improving my skills, and staying up to date with new technologies.
+- 🧑‍💼 I am currently **open to new job opportunities** and remote work.  
+  👉 [View my Resume](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/CV-Carlos-Qui%C3%B1onez-ENGLISH.pdf)
+
 <br>
+
 
 <h1> 🛠️ Skills</h1>
 
