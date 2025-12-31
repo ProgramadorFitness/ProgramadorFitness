@@ -89,7 +89,7 @@ Discipline from fitness applied to software engineering:
 </p>
 
 <p align="center">
-<img height="180em" src="https://camo.githubusercontent.com/7eef17acd96201d198068e1cbf60dde2341d2483b162ee49577a020d029a83fc/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d417269734775696d657261266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProgramadorFitness&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;" class="__web-inspector-hide-shortcut__">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProgramadorFitness&amp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 
