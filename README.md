@@ -82,8 +82,12 @@ Discipline from fitness applied to software engineering:
     Modular ERP system developed with <b>Laravel, Nuxt & PostgreSQL</b>.
   </p>
 
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/Screenshot 2025-12-31 135756.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/Screenshot 2025-12-31 135812.png" width="400"/>
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/1.png" width="400"/>
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/2.png" width="400"/>
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/3.png" width="400"/>
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/4.png" width="400"/>
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/5.png" width="400"/>
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/6.png" width="400"/>
 
   <p>
     ⚠️ Private enterprise project (screenshots only)
