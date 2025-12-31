@@ -83,13 +83,6 @@ Discipline from fitness applied to software engineering:
 <p><a href="https://www.linkedin.com/in/danieltorres98/" target="blank"><img align="center" src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Linkedin.gif"  height="80" width="70" /></a>
 </p>
 
-<p align="center">
-  ### 🧮 Featured Project
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=calculator&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 
 <br>
 
