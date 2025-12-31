@@ -10,12 +10,37 @@
 <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/LebronJ.gif"  align="right"></img></picture>
 <br>
 
-- 🎓 I am a **Software Developer** with over **3+ years of experience**.
-- 🧑‍💻 I love using **Software as a solution** for every `problem`.
-- 💻 I enjoy creating **scalable modules and reusable components** that help the **developer community**.
-- 🤓 Always `learning new things`, improving my skills, and staying up to date with new technologies.
-- 🧑‍💼 I am currently **open to new job opportunities** and remote work.  
-  👉 [View my Resume](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/CV-Carlos-Qui%C3%B1onez-ENGLISH.pdf)
+## 👋 Hi, I'm Daniel Torres | Senior Software Developer
+
+- 🎓 **Senior Software Developer** with **3+ years of professional experience** designing, developing, and maintaining scalable applications.
+- 🧠 Strong believer in **software as a solution** to real-world `business problems`.
+- 🧩 Experienced in building **modular, reusable, and maintainable systems** that positively impact teams and communities.
+- 🤓 Committed to **continuous learning**, clean architecture, and industry best practices.
+- 🧑‍💼 Currently **open to new opportunities**, including **remote and international roles**.  
+  👉 **[View My Resume](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/CV-Carlos-Qui%C3%B1onez-ENGLISH.pdf)**
+
+---
+
+### 🛠️ Tech Stack & Expertise
+- **Frontend:** Nuxt 3, Vue.js, React, Angular, Tailwind CSS  
+- **Backend:** Laravel, Node.js, REST APIs, Authentication (JWT, OAuth)  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **DevOps & Cloud:** Nginx, Docker, Linux, Azure  
+- **Security:** Authentication, Authorization, Secure APIs  
+- **Best Practices:** Clean Code, SOLID, Modular Architecture
+
+---
+
+### 🚀 Professional Mindset
+> *"Technology for the body, culture in the code."*
+
+- Focused on **performance, scalability, and security**
+- Strong sense of **ownership, responsibility, and quality**
+- Fitness 💪 discipline applied to **software engineering excellence**
+
+---
+
+⭐ Feel free to explore my repositories, open issues, or reach out for collaboration.
 
 <br>
 
