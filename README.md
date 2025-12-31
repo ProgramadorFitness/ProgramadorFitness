@@ -42,12 +42,7 @@
 
 ⭐ Feel free to explore my repositories, open issues, or reach out for collaboration.
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgramadorFitness&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+---
 
 ### 🏢 FitCode | Software Solutions
 
@@ -59,6 +54,26 @@
 
 > *Technology for the body, culture in the code.*
 
+---
+
+### 🧠 Engineering Principles
+
+- Clean Architecture & SOLID principles
+- Security-first mindset
+- Performance and scalability oriented
+- Business-focused software solutions
+- Strong communication and ownership
+
+---
+
+### 🏋️ Programador Fitness
+
+Discipline from fitness applied to software engineering:
+- Consistency
+- Continuous improvement
+- Long-term vision
+- Mental and physical performance
+
 <br>
 <h1> 🛠️ Skills</h1>
 
@@ -69,32 +84,8 @@
 </p>
 
 <br>
-<div>
-<h1>My Repositories</h1>
-   <p align="center">
-   <a href="https://github.com/ProgramadorFitness/ProgramadorFitness">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=ProgramadorFitness&theme=tokyonight" alt="GitHub Stats" />  
-   </a>
-    <a href="https://github.com/ProgramadorFitness/proyect_2024">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=proyect_2024&theme=tokyonight" alt="GitHub Stats" />  
-   </a>
-      <a href="https://programadorfitness.github.io/calculator/">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=calculator&theme=tokyonight" alt="GitHub Stats" />  
-   </a>
-      <a href="https://programadorfitness.github.io/table-ts/">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=table-ts&theme=tokyonight" alt="GitHub Stats" />  
-   </a>
-      <a href="https://programadorfitness.github.io/text_hipertext/">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=text_hipertext&theme=tokyonight" alt="GitHub Stats" />  
-   </a>
-   </p>
-</div>
 
-<h1>Git status</h1>
-<p align="center" >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ProgramadorFitness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" width="60%" ">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" width="35%" >
-</p>
+
 
 
 
