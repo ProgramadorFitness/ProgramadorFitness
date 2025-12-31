@@ -84,7 +84,10 @@ Discipline from fitness applied to software engineering:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  ### 🧮 Featured Project
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramadorFitness&repo=calculator&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 
