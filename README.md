@@ -22,10 +22,10 @@
 ---
 
 ### 🛠️ Tech Stack & Expertise
-- **Frontend:** Nuxt 3, Vue.js, React, Angular, Tailwind CSS  
+- **Frontend:** Nuxt, Vue.js, React, Angular, Tailwind CSS  
 - **Backend:** Laravel, Node.js, REST APIs, Authentication (JWT, OAuth)  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
-- **DevOps & Cloud:** Nginx, Docker, Linux, Azure  
+- **DevOps & Cloud:** Nginx, Linux, Azure  
 - **Security:** Authentication, Authorization, Secure APIs  
 - **Best Practices:** Clean Code, SOLID, Modular Architecture
 
