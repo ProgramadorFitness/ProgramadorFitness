@@ -88,6 +88,8 @@ Discipline from fitness applied to software engineering:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProgramadorFitness&amp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
+<img height="180em" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;" class="__web-inspector-hide-shortcut__">
+
 
 
 
