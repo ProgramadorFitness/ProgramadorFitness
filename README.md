@@ -42,13 +42,24 @@
 
 ⭐ Feel free to explore my repositories, open issues, or reach out for collaboration.
 
-<br>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProgramadorFitness&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+### 🏢 FitCode | Software Solutions
+
+**FitCode** is a technology-driven initiative focused on building **optimized, scalable, and secure software solutions**.
+
+- End-to-end development: design, development, deployment & support
+- Integration with hardware, cameras, screens, and IoT systems
+- Values: Respect, Quality, Availability, Integrity & Ethics
+
+> *Technology for the body, culture in the code.*
+
+<br>
 <h1> 🛠️ Skills</h1>
 
 `TypeScript` `java` `PHP` `HTML` `CSS` `JavaScript` `Node.js` `Tailwind` `Vue` `Nuxt3` `Azure` 
