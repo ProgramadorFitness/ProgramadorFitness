@@ -74,6 +74,22 @@ Discipline from fitness applied to software engineering:
 - Long-term vision
 - Mental and physical performance
 
+---
+<details>
+  <summary><strong>🏭 ERP Management System</strong></summary>
+  <br>
+  <p>
+    Modular ERP system developed with <b>Laravel, Nuxt & PostgreSQL</b>.
+  </p>
+
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Clients/Screenshot 2025-12-31 135756.png" width="400"/>
+  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Clients/Screenshot 2025-12-31 135812.png" width="400"/>
+
+  <p>
+    ⚠️ Private enterprise project (screenshots only)
+  </p>
+</details>
+
 <br>
 <h1> 🛠️ Skills</h1>
 
