@@ -1,4 +1,5 @@
-<h1 align="center" style="color: #FFFF00">Hi brothers, my name is Daniel Torres</h1>
+<h1 align="center" style="color: #FFFF00">Hi, I'm Daniel Torres
+</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=40&pause=1000&color=1D86A4&center=true&vCenter=true&multiline=true&random=false&width=700&height=200&lines=Systems+engineer!;Information+systems+technologist!" alt="Typing SVG"  /></a>
@@ -203,10 +204,13 @@ Discipline from fitness applied to software engineering:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProgramadorFitness&amp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
+
 <p align="center">
    
 <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" style="max-width: 100%;" >
 </p>
+
+> 🔒 A significant part of my daily activity is performed in private enterprise repositories.
 
 
 
