@@ -2,6 +2,10 @@
 </h1>
 
 <p align="center">
+   <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Untitled%20design.png"  align="right"></img></picture>
+</p>
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=40&pause=1000&color=1D86A4&center=true&vCenter=true&multiline=true&random=false&width=700&height=200&lines=Systems+engineer!;Information+systems+technologist!" alt="Typing SVG"  /></a>
 </p>
 <h1>
