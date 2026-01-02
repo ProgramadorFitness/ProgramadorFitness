@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-   <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Untitled%20design.png"  align="right"></img></picture>
+   <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Untitled%20design1.png"  align="right"></img></picture>
 </p>
 
 <p align="center">
