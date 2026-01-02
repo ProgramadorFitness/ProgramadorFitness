@@ -15,7 +15,7 @@
 <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/LebronJ.gif"  align="right"></img></picture>
 <br>
 
-## 👋 Hi, I'm Daniel Torres | Senior Software Developer
+## 👋 Senior Software Developer
 
 - 🎓 **Senior Software Developer** with **3+ years of professional experience** designing, developing, and maintaining scalable applications.
 - 🧠 Strong believer in **software as a solution** to real-world `business problems`.
