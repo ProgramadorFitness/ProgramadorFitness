@@ -196,6 +196,14 @@ Discipline from fitness applied to software engineering:
 <h1>Connect with me</h1>
 <p><a href="https://www.linkedin.com/in/danieltorres98/" target="blank"><img align="center" src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Linkedin.gif"  height="80" width="70" /></a>
 </p>
+
+> 🔒 A significant part of my daily activity is performed in private enterprise repositories.
+
+> ### 🏢 Experiencia Profesional
+🔒 Gran parte de mi actividad diaria se desarrolla en repositorios privados empresariales.
+
+👉 GitHub Enterprise (acceso restringido):
+https://github.com/DanielTorresFsDev
 <br>
 
 
@@ -210,7 +218,7 @@ Discipline from fitness applied to software engineering:
 <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProgramadorFitness&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ProgramadorFitness" style="max-width: 100%;" >
 </p>
 
-> 🔒 A significant part of my daily activity is performed in private enterprise repositories.
+
 
 
 
