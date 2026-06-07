@@ -49,9 +49,9 @@
 
 ---
 
-### 🏢 FitCode | Software Solutions
+### 🏢 PF Core Technologies | Software Solutions
 
-**FitCode** is a technology-driven initiative focused on building **optimized, scalable, and secure software solutions**.
+**PfCore** is a technology-driven initiative focused on building **optimized, scalable, and secure software solutions**.
 
 - End-to-end development: design, development, deployment & support
 - Integration with hardware, cameras, screens, and IoT systems
