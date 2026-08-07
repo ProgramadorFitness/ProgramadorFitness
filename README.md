@@ -85,9 +85,6 @@ Discipline from fitness applied to software engineering:
 ---
 
 <br>
-<h1> 🛠️ Skills</h1>
-
-`TypeScript` `java` `PHP` `HTML` `CSS` `JavaScript` `Node.js` `Tailwind` `Vue` `Nuxt3` `Azure` 
 
 <h1>Connect with me</h1>
 <p><a href="https://www.linkedin.com/in/danieltorres98/" target="blank"><img align="center" src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Linkedin.gif"  height="80" width="70" /></a>
