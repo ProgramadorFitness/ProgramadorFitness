@@ -15,24 +15,27 @@
 <picture ><img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/LebronJ.gif"  align="right"></img></picture>
 <br>
 
-## 👋 Senior Software Developer
+## 👋 Full Stack Engineer | SaaS & Platform Engineering
 
-- 🎓 **Senior Software Developer** with **3+ years of professional experience** designing, developing, and maintaining scalable applications.
-- 🧠 Strong believer in **software as a solution** to real-world `business problems`.
-- 🧩 Experienced in building **modular, reusable, and maintainable systems** that positively impact teams and communities.
-- 🤓 Committed to **continuous learning**, clean architecture, and industry best practices.
-- 🧑‍💼 Currently **open to new opportunities**, including **remote and international roles**.  
-  👉 **[View My Resume](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/CV-Carlos-Qui%C3%B1onez-ENGLISH.pdf)**
+Full Stack Engineer with 3+ years of experience designing, building, and maintaining scalable software products for businesses and enterprise environments.
+
+I specialize in SaaS platforms, enterprise software, modular architectures, REST APIs, and full-cycle product development.
+
+I believe strong software is not just code — it is a practical solution to real business problems.
+
+Currently open to remote and international opportunities.
+
+👉 [View My Resume](https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/CV-Carlos-Qui%C3%B1onez-ENGLISH.pdf)**
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
-- **Frontend:** Nuxt, Vue.js, React, Angular, Tailwind CSS  
-- **Backend:** Laravel, Node.js, REST APIs, Authentication (JWT, OAuth)  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **DevOps & Cloud:** Nginx, Linux, Azure  
-- **Security:** Authentication, Authorization, Secure APIs  
-- **Best Practices:** Clean Code, SOLID, Modular Architecture
+- Frontend: Nuxt, Vue.js, React, Tailwind CSS, TypeScript
+- Backend: Laravel, FastAPI, Node.js, REST APIs
+- Mobile: Flutter, React Native
+- Databases: PostgreSQL, MySQL
+- DevOps & Cloud: Docker, Linux, Nginx, Azure
+- Architecture: SaaS, Multi-tenancy, RBAC, Modular Systems, Clean Architecture
 
 ---
 
