@@ -54,11 +54,11 @@ Currently open to remote and international opportunities.
 
 ### 🏢 PF Core Technologies | Software Solutions
 
-**PfCore** is a technology-driven initiative focused on building **optimized, scalable, and secure software solutions**.
+PF Core is a software initiative focused on building scalable, secure, and optimized solutions for real business needs.
 
 - End-to-end development: design, development, deployment & support
-- Integration with hardware, cameras, screens, and IoT systems
-- Values: Respect, Quality, Availability, Integrity & Ethics
+- Products: Prisma Credit, Vitrina
+- Focus: scalable architecture, maintainability, and product quality
 
 > *Technology for the body, culture in the code.*
 
@@ -83,117 +83,6 @@ Discipline from fitness applied to software engineering:
 - Mental and physical performance
 
 ---
-<details>
-  <summary><strong>🏭 Clients Software (ERP Module)</strong></summary>
-  <br>
-
-  <p>
-    Client-oriented software module designed to improve transparency, control, and operational efficiency.
-  </p>
-
-  <ul>
-    <li>📦 Verification and approval of <b>remissions</b></li>
-    <li>⚠️ Management and approval/rejection of <b>downtime & improductivity reports</b></li>
-    <li>📊 Customer satisfaction surveys</li>
-    <li>🧾 Invoice review and validation</li>
-    <li>👥 Secure client access with role-based permissions</li>
-  </ul>
-
-  <p>
-    Built with <b>Laravel, Nuxt & PostgreSQL</b>, focused on performance, security, and scalability.
-  </p>
-
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/1.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/2.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/3.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/4.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/5.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Clients/6.png" width="400"/>
-
-  <p>
-    ⚠️ Private enterprise project (screenshots only)
-  </p>
-</details>
-
-<details>
-  <summary><strong>📊 Digitize Indicators</strong></summary>
-  <br>
-
-  <p>
-    Digital indicator management system focused on data-driven decision making and operational control.
-  </p>
-
-  <ul>
-    <li>📈 Real-time dashboards with key performance indicators (KPIs)</li>
-    <li>📊 Indicator digitalization and historical tracking</li>
-    <li>👥 User and client management with access control</li>
-    <li>🏢 Multi-client support</li>
-    <li>📅 Period-based reports and analytics</li>
-  </ul>
-
-  <p>
-    Designed for companies that require <b>visibility, traceability, and actionable insights</b>.
-  </p>
-
-  <p>
-    Tech stack: <b>Laravel, Nuxt, PostgreSQL</b>
-  </p>
-
-<img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/1.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/2.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/3.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/4.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/5.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/6.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/7.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/8.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/9.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/10.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/DigitizeIndicators/11.png" width="400"/>
-
-
-  <p>
-    ⚠️ Private enterprise project (screenshots only)
-  </p>
-</details>
-
-<details>
-  <summary><strong>🧑‍💼 Business Self Management</strong></summary>
-  <br>
-
-  <p>
-    Employee self-management platform designed to reduce administrative workload and improve internal processes.
-  </p>
-
-  <ul>
-    <li>📝 Employee personal data updates</li>
-    <li>💰 Access to <b>pay slips and payroll-related documents</b></li>
-    <li>🏥 Submission and tracking of <b>medical leave and incapacity requests</b></li>
-    <li>📂 Document management and traceability</li>
-    <li>🔐 Secure access with authentication and authorization</li>
-  </ul>
-
-  <p>
-    This system empowers employees while optimizing HR and administrative operations.
-  </p>
-
-  <p>
-    Developed with <b>Laravel, Nuxt & PostgreSQL</b>, following clean architecture and security best practices.
-  </p>
-
-  <!-- 6 imágenes -->
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/BusinessSelfManagement/1.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/BusinessSelfManagement/2.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/BusinessSelfManagement/3.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/BusinessSelfManagement/4.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/BusinessSelfManagement/5.png" width="400"/>
-  <img src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/BusinessSelfManagement/6.png" width="400"/>
-
-  <p>
-    ⚠️ Private enterprise project (screenshots only)
-  </p>
-</details>
-
 
 <br>
 <h1> 🛠️ Skills</h1>
@@ -203,16 +92,6 @@ Discipline from fitness applied to software engineering:
 <h1>Connect with me</h1>
 <p><a href="https://www.linkedin.com/in/danieltorres98/" target="blank"><img align="center" src="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/Linkedin.gif"  height="80" width="70" /></a>
 </p>
-
-> 🔒 A significant part of my daily activity is performed in private enterprise repositories.
-
-> ### 🏢 Experiencia Profesional
-🔒 Gran parte de mi actividad diaria se desarrolla en repositorios privados empresariales.
-
-👉 GitHub Enterprise (acceso restringido):
-https://github.com/DanielTorresFsDev
-<br>
-
 
 <h1>⚙️ GitHub Analytics</h1>
 <p align="center">
