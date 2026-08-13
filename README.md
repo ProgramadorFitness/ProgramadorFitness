@@ -389,7 +389,7 @@ I keep that mindset in my engineering journey.
 <h2>📄 Resume</h2>
 
 <p align="center">
-  <a href="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/CV-Carlos-Qui%C3%B1onez-ENGLISH.pdf">
+  <a href="https://github.com/ProgramadorFitness/ProgramadorFitness/blob/main/Img/CV-Carlos-Quinonez-Senior-Full-Stack-Engineer-ES-2026.pdf">
     <img
       src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white"
       alt="View Resume"
